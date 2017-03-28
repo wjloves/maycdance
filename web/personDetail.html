@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>杏娱</title>
+    <!--# include virtual="./ssi/meta.html" -->
+    <link href="./css/v2/page/personDetail.min.css" rel="stylesheet" />
+    <script type="text/javascript" src="./js/v2/plug/selectYMD.js"></script>
+    <script type="text/javascript" src="./js/v2/plug/selectCity.js"></script>
+</head>
+<body>
+<div class="main">
+    <!--# include virtual="./ssi/header.html" -->
+</div>
+<!--# include virtual="./ssi/banner.html" -->
+<div class="mbody">
+    <div class="main">
+        <div class="main-panel btred">
+            <div class="mbody-title">
+                <div class="mbody-title-notice"></div>
+                <div class="mbody-title-text">首页>我的杏娱>个人资料</div>
+            </div>
+            <div class="line soild gray mts mbs"></div>
+            <div id="person">
+                <form method="post" name="" action="/?ct=forget_password&ac=get_validate&_t=<{$sys._t}>" id="person-edit">
+                    <table class="person-detail">
+                        <tr>
+                            <td class="col3-1">用户名：</td>
+                            <td class="col3-2">测试用户</td>
+                            <td class="col3-3">&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td class="col3-1">昵称：</td>
+                            <td class="col3-2"><input name="validate" type="text" class="input input-small" /></td>
+                            <td class="col3-3">&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td class="col3-1">性别：</td>
+                            <td class="col3-2">
+                                <input type="radio" name="sex" id="man"  /><label for="man">男</label>
+                                <input type="radio" name="sex" id="woman" class="mll" /><label for="woman">女</label>
+                            </td>
+                            <td class="col3-3">&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td class="col3-1">出生日期：</td>
+                            <td class="col3-2">
+                                <div name="selectYMD">
+                                    <select name="year" onChange="YYYYDD(this.value)">
+                                        <option value="">年</option>
+                                    </select>
+                                    <select name="mouth" class="mls" onChange="MMDD(this.value)">
+                                        <option value="">月</option>
+                                    </select>
+                                    <select name="day" class="mls">
+                                        <option value="">日</option>
+                                    </select>
+                                </div>
+                            </td>
+                            <td class="col3-3">&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td class="col3-1">地区：</td>
+                            <td class="col3-2">
+                                <select name="province" id="province">
+                                    <option value="省份" selected="selected">省份</option>
+                                </select>
+                                <select name="city" id="city" class="mls">
+                                    <option value="城市" selected="selected">市县</option>
+                                </select>
+                            </td>
+                            <td class="col3-3">&nbsp;</td>
+                        </tr>
+                        <td class="col3-1">&nbsp;</td>
+                        <td class="col3-2"><button class="btn btn-normal btn-red mtm">确认修改</button></td>
+                        <td class="col3-3">&nbsp;</td>
+                    </table>
+                </form>
+                <div class="person-header">
+                    <img class="person-header-avatur" src="./images/v2/avatur.jpg" alt="头像" />
+                    <button class="btn btn-small btn-white mll">修改头像</button>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--# include virtual="./ssi/footerNew.html" -->
+</body>

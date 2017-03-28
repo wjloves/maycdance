@@ -1,0 +1,31 @@
+[ 2016-03-02T17:25:38+08:00 ] [ RECORD ]:  update_pwd array (
+  'event_forget_password' => '1',
+  'old_pwd' => '1',
+  'passwd' => '222222',
+  'pwdconfirm' => '222222',
+  'uid' => '107326',
+)
+[ 2016-03-02T17:30:04+08:00 ] [ RECORD ]:  update_pwd array (
+  'event_forget_password' => '1',
+  'old_pwd' => '1',
+  'passwd' => '444444',
+  'pwdconfirm' => '444444',
+  'uid' => '107326',
+)
+[ 2016-03-02T17:30:13+08:00 ] [ RECORD ]:  update_pwd array (
+  'event_forget_password' => '1',
+  'old_pwd' => '1',
+  'passwd' => '333333',
+  'pwdconfirm' => '333333',
+  'uid' => '107326',
+)
+[ 2016-03-02T17:52:17+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.26',
+  'email' => 'jame117@qq.com',
+  'mobile' => '',
+  'passwd' => '123123',
+  'user_name' => 'jame117',
+)
+[ 2016-03-02T17:52:17+08:00 ] [ RECORD ]:  update_game array (
+  'gender' => '1',
+)

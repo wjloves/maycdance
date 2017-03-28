@@ -1,0 +1,13 @@
+.y-nav-list li{
+	padding:0 14px;
+}
+input.circle-icon{
+	background:transparent;
+}
+#nav_search_item{
+	width:216px;
+}
+.global-search{
+	width:240px;
+	top:29px;
+}

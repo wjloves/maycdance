@@ -1,0 +1,22 @@
+[ 2016-02-26T14:01:24+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '127.0.0.1',
+  'email' => '',
+  'mobile' => '',
+  'passwd' => '123456',
+  'user_name' => 'test120414',
+)
+[ 2016-02-26T20:12:04+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '127.0.0.1',
+  'email' => '',
+  'mobile' => '',
+  'passwd' => '123456',
+  'user_name' => 'test125414',
+)
+[ 2016-02-26T23:22:03+08:00 ] [ RECORD ]:  update_game array (
+  'pet_name' => '131',
+  'gender' => '1adadada6',
+  'birthday' => '13dadad6',
+  'location' => '4dadad56',
+  'interest' => '12222ddd6',
+  'wish' => '123456',
+)

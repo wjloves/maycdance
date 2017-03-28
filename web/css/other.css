@@ -1,0 +1,28 @@
+/**
+ * other.css
+ * include Tip info
+ */
+.msg-b{
+	margin:10px 50px;
+	text-align:center;
+	border:2px solid #ebebeb;
+	padding:25px 10px;
+	font-size:14px;
+	position:relative;
+	_height:1%;
+}
+.ico{
+	background-image:url(../images/hint_icon.png);
+	_background-image:url(../images/hint_icon.gif) no-repeat;
+}
+.msg-b .ico{
+	width:30px;
+	height:30px;
+	display:inline-block;
+	vertical-align:middle;
+	position:absolute;
+	background-position:0 0;
+	left:150px;
+	top:25px;
+	*top:35px;
+}

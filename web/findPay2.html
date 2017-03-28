@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>杏娱</title>
+    <!--# include virtual="./ssi/meta.html" -->
+    <link href="./css/v2/page/findPassword.min.css" rel="stylesheet" />
+</head>
+<body>
+<div class="main">
+    <!--# include virtual="./ssi/header.html" -->
+</div>
+<!--# include virtual="./ssi/banner.html" -->
+<div class="mbody">
+    <div class="main">
+        <div class="main-panel btred">
+            <div class="mbody-title">
+                <div class="mbody-title-notice"></div>
+                <div class="mbody-title-text">首页>我的杏娱>个人资料>找回支付密码</div>
+            </div>
+            <div class="line soild gray mts mbs"></div>
+            <div class="fp-main">
+                <div class="fp-main-notice mtl"><span class="icon-bell mrs"></span>你可以通过绑定手机和邮箱找回密码，找回密码后请牢记新密码。</div>
+                <div class="fp-main-progress step2">
+                    <span class="icon-number1 mrs" id="step1"></span><span>身份验证</span>
+                    <span class="icon-number2 mrs" id="step2"></span><span>重置支付密码</span>
+                    <span class="icon-number3 mrs" id="step3"></span><span>设置成功</span>
+                </div>
+                <form method="post" name="step1_form" action="/?ct=forget_password&ac=get_validate&_t=<{$sys._t}>">
+                    <table border="0" class="fp-main-table">
+                        <tr>
+                            <td class="col3-1">帐号：</td>
+                            <td class="col3-2">toro</td>
+                            <td class="col3-3">&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td class="col3-1">新支付密码：</td>
+                            <td class="col3-2">
+                                <input name="validate" type="text" class="input input-normal" />
+                            </td>
+                            <td class="col3-3"><span class="hidden"><span class="icon-wrong mrs"></span>请输入验证码</span></td>
+                        </tr>
+                        <tr>
+                            <td class="col3-1">确认新支付密码：</td>
+                            <td class="col3-2"><input name="validate" type="text" class="input input-normal" /></td>
+                            <td class="col3-3">&nbsp;</td>
+                        </tr>
+                    </table>
+                    <div class="fp-main-bottom">
+                        <button class="btn btn-large btn-red " type="submit">下一步</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!--# include virtual="./ssi/footerNew.html" -->
+</body>

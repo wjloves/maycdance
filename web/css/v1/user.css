@@ -1,0 +1,81 @@
+.content{
+	overflow: hidden;
+}
+.content>  .steps {
+	position: relative;
+	width:830px;
+	height: 46px;
+    border-bottom: 2px solid #e6e6e6;
+	margin:30px auto;
+}
+.content>  .steps  ul {
+	width:430px;
+	margin:auto;
+}
+.content>  .steps  ul li{
+	width:130px;
+	height:46px;
+	float:left;
+	color:#005ea7;
+}
+.content>  .steps  ul li a{
+	display:block;
+	line-height: 46px;
+	text-decoration: none;
+	color:#005ea7;
+}
+.content>  form{
+	width:100%;
+	overflow: hidden;
+}
+.content>  form .form-list{
+	width:720px;
+	margin:0 auto;
+	padding-bottom:30px;
+}
+.content>  form .form-list> .form-group {
+    overflow: hidden;
+}
+.content>  form .form-list> .form-group .form-item {
+    padding: 6px 0 6px 160px;
+    line-height: 36px;
+    zoom: 1;
+}
+.content>  form .form-list> .form-group .form-item .form-label {
+	display: inline;
+    float: left;
+    margin-left: -160px;
+    width: 240px;
+    height: 37px;
+    line-height: 37px;
+    text-align: right;
+}
+.content>  form .form-list> .form-group .form-item .form-label  i{
+     font-style:normal;
+     font-size:10px;
+     color:#cc312d;
+}
+.content>  form .form-list> .form-group .form-item .username{
+	 font:bold 16px/36px arial;
+	 color:#666;
+}
+.content>  form .form-list> .form-group .form-item .usersex{
+	overflow: hidden;
+}
+.content>  form .form-list> .form-group .form-item .usersex .radio{display: none;}
+.content>  form .form-list> .form-group .form-item .usersex .radio+label{background-color: #fff; -webkit-appearance: none; border: 1px solid #d6d6d6; padding: 9px; border-radius: 50%; display: inline-block; position: relative;margin-right:5px;
+-moz-box-shadow:1px 1px 1px #999 inset;
+-webkit-box-shadow:1px 1px 1px #999 inset;
+	box-shadow:1px 1px 1px #999 inset;
+}
+.content>  form .form-list> .form-group .form-item .usersex .radio:checked+label:after{content: ' '; width: 10px; height: 10px; border-radius: 50%; position: absolute; top: 4px; left: 4px; background: #ef3e36; font-size: 2rem}
+.focus-input{width:255px;height:30px;background:none;outline:none;border:none;background: url(/static/images/v1/focus_input_text.png) no-repeat;padding-left:5px;line-height:30px;}
+.btn-large,.btn-large:hover,.btn-large:after{background:url(/static/images/v1/button_submit.png) no-repeat;cursor:pointer;}
+.btn-large{width:260px;height:37px;border:none;outline:none;background-position:0 0;margin:auto;color:#fff;margin-left:240px;}
+.btn-large:hover{background-position:0 -42px;}
+.btn-large:after{background-position:0 -85px;}
+
+input.focus-input.readonly {
+	background-image: none;
+	color: #ef3e36;
+}

@@ -1,0 +1,63 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, th, td,span,iframe{
+	margin:0;
+	padding:0;
+}
+html{
+	overflow-x:hidden;
+	overflow-y:scroll;
+}
+body {
+	
+	font:12px/1.8 Tahoma, verdana, arial, sans-serif, "\5B8B\4F53";
+	color:#151515;
+}
+html:root body,
+html:root input,
+html:root button,
+html:root textarea,
+html:root select {
+	font-family:Tahoma, Geneva, "\5fae\8f6f\96c5\9ed1", "\5B8B\4F53";
+}
+
+
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+.tangram-calendar-table{
+	border-collapse:separate;
+}
+fieldset, img {
+	border:0;
+}
+li {
+	list-style:none;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-size:100%;
+}
+input, textarea, select {
+	font-family:inherit;
+	font-size:inherit;
+	font-weight:inherit;
+}
+input, textarea, select {
+	*font-size:100%;
+}
+.clearfix{
+	zoom:1;
+}
+.clearfix:after{
+    clear: both;
+    content: " ";
+    display: block;
+    height: 0;
+}
+a{
+	color:#3366cc;
+	text-decoration:none;
+	cursor:pointer;
+}
+a:hover{
+	color:#ff6633;
+}

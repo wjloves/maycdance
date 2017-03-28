@@ -1,0 +1,25 @@
+{
+  "require":{
+      "nikic/fast-route":"*",
+      "twig/twig":"~1.0",
+      "illuminate/database": "5.1.*",
+      "illuminate/pagination": "5.1.*",
+      "illuminate/events": "5.1.*",
+      "symfony/http-foundation":"~2.4",
+      "monolog/monolog": "~1.8",
+      "faisalman/simple-excel-php" : "0.3.*"
+  },
+  "autoload":{
+      "psr-4":{
+        "Core\\":"Core/",
+        "App\\":"App/",
+        "OAuth2\\":"App/Service/OAuth2/",
+        "AsynServer\\" : "AsynServer/",
+        "Test\\":""
+      },
+      "classmap":[
+          "App/Models"
+      ]
+  }
+	
+}

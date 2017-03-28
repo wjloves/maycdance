@@ -1,0 +1,354 @@
+[ 2016-02-28T00:02:49+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '172.17.0.1',
+  'email' => 'ttt015@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'ttt015',
+)
+[ 2016-02-28T00:04:16+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '172.17.0.1',
+  'email' => 'ttt1@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'ttt1',
+)
+[ 2016-02-28T00:05:36+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '172.17.0.1',
+  'email' => 'ttt2@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'ttt2',
+)
+[ 2016-02-28T00:07:21+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '172.17.0.1',
+  'email' => 'ttt3@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'ttt3',
+)
+[ 2016-02-28T00:07:53+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.5.44',
+  'email' => 'morgan2@gmail.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'morgan2',
+)
+[ 2016-02-28T00:09:55+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '172.17.0.1',
+  'email' => 'ttt4@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'ttt4',
+)
+[ 2016-02-28T00:21:05+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '172.17.0.1',
+  'email' => 'ttt6@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'ttt6',
+)
+[ 2016-02-28T00:21:44+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '172.17.0.1',
+  'email' => 'ttt7@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'ttt7',
+)
+[ 2016-02-28T00:29:32+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '172.17.0.1',
+  'email' => 'ttttt1@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'ttttt1',
+)
+[ 2016-02-28T00:31:36+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '172.17.0.1',
+  'email' => 'test888@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'test888',
+)
+[ 2016-02-28T00:35:34+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '172.17.0.1',
+  'email' => 'ttttt3@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'ttttt3',
+)
+[ 2016-02-28T01:07:14+08:00 ] [ RECORD ]:  update_game array (
+  'birthday' => '1980-01-01',
+  'location' => '430000',
+)
+[ 2016-02-28T01:08:14+08:00 ] [ RECORD ]:  update_game array (
+  'birthday' => '1980-01-01',
+  'location' => '410000',
+)
+[ 2016-02-28T01:16:34+08:00 ] [ RECORD ]:  update_game array (
+  'birthday' => '1980-01-02',
+  'location' => '410000',
+)
+[ 2016-02-28T01:17:34+08:00 ] [ RECORD ]:  update_game array (
+  'birthday' => '1980-01-03',
+  'location' => '410000',
+)
+[ 2016-02-28T01:18:04+08:00 ] [ RECORD ]:  update_game array (
+  'birthday' => '1980-01-03',
+  'location' => '350000',
+)
+[ 2016-02-28T01:21:07+08:00 ] [ RECORD ]:  update_game array (
+  'birthday' => '1980-01-03',
+  'location' => '300000',
+)
+[ 2016-02-28T01:46:57+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'wwwww1@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'wwwww1',
+)
+[ 2016-02-28T01:49:38+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'wwwww2@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'wwwww2',
+)
+[ 2016-02-28T05:31:07+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'eeeee1@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'eeeee1',
+)
+[ 2016-02-28T05:40:08+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'eeeee2@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'eeeee2',
+)
+[ 2016-02-28T05:41:38+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'eeeee3@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'eeeee3',
+)
+[ 2016-02-28T05:48:51+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'eeeee4@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'eeeee4',
+)
+[ 2016-02-28T05:54:02+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'eeeee5@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'eeeee5',
+)
+[ 2016-02-28T05:55:22+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'eeeee6@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'eeeee6',
+)
+[ 2016-02-28T05:55:58+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'eeeee7@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'eeeee7',
+)
+[ 2016-02-28T05:59:15+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'eeeee8@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'eeeee8',
+)
+[ 2016-02-28T06:11:12+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'eeeee9@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'eeeee9',
+)
+[ 2016-02-28T06:19:18+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'eeeee10@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'eeeee10',
+)
+[ 2016-02-28T06:20:56+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'eeeee11@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'eeeee11',
+)
+[ 2016-02-28T06:21:30+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'eeeee12@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'eeeee12',
+)
+[ 2016-02-28T06:23:47+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'eeeee13@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'eeeee13',
+)
+[ 2016-02-28T06:24:17+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'eeeee14@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'eeeee14',
+)
+[ 2016-02-28T06:26:28+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'eeeee15@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'eeeee15',
+)
+[ 2016-02-28T06:27:14+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'eeeee16@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'eeeee16',
+)
+[ 2016-02-28T06:28:52+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'eeeee21@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'eeeee21',
+)
+[ 2016-02-28T06:40:07+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'eeeee22@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'eeeee22',
+)
+[ 2016-02-28T07:03:24+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'eeeee33@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'eeeee33',
+)
+[ 2016-02-28T07:07:16+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'eeeee44@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'eeeee44',
+)
+[ 2016-02-28T07:09:45+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'eeeee55@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'eeeee55',
+)
+[ 2016-02-28T07:12:08+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'eeeee66@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'eeeee66',
+)
+[ 2016-02-28T07:13:04+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'eeeee77@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'eeeee77',
+)
+[ 2016-02-28T07:14:05+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'eeeee99@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'eeeee99',
+)
+[ 2016-02-28T07:18:07+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'qqqqq1@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'qqqqq1',
+)
+[ 2016-02-28T07:21:46+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'qqqqq2@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'qqqqq2',
+)
+[ 2016-02-28T07:21:46+08:00 ] [ RECORD ]:  update_game array (
+  'gender' => '1',
+)
+[ 2016-02-28T07:26:05+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '10.72.2.27',
+  'email' => 'qqqqq3@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'qqqqq3',
+)
+[ 2016-02-28T07:26:05+08:00 ] [ RECORD ]:  update_game array (
+  'gender' => '1',
+)
+[ 2016-02-28T08:52:03+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '172.17.0.1',
+  'email' => 'aaaaa2@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'aaaaa2',
+)
+[ 2016-02-28T08:52:03+08:00 ] [ RECORD ]:  update_game array (
+  'gender' => '1',
+)
+[ 2016-02-28T09:12:18+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '172.17.0.1',
+  'email' => 'aaaaa3@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'aaaaa3',
+)
+[ 2016-02-28T09:12:19+08:00 ] [ RECORD ]:  update_game array (
+  'gender' => '1',
+)
+[ 2016-02-28T09:14:32+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '172.17.0.1',
+  'email' => 'aaaaa5@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'aaaaa5',
+)
+[ 2016-02-28T09:14:32+08:00 ] [ RECORD ]:  update_game array (
+  'gender' => '1',
+)
+[ 2016-02-28T09:15:08+08:00 ] [ RECORD ]:  register_passport array (
+  'cli_ip' => '172.17.0.1',
+  'email' => 'aaaaa6@163.com',
+  'mobile' => '',
+  'passwd' => '111111',
+  'user_name' => 'aaaaa6',
+)
+[ 2016-02-28T09:15:08+08:00 ] [ RECORD ]:  update_game array (
+  'gender' => '1',
+)
+[ 2016-02-28T14:04:01+08:00 ] [ RECORD ]:  update_game array (
+  'birthday' => '1980-01-01',
+  'location' => '410000',
+)

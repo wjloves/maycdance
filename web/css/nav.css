@@ -1,0 +1,80 @@
+.y-nav{
+	height:35px;
+	background:#eee;
+	width:437px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	position:relative;
+}
+
+.y-nav-list li{
+	float:left;
+	margin-left:20px;
+	display:inline;
+	font-size:14px;
+	height:35px;
+	line-height:35px;
+}
+.y-nav-list a{
+	color:#181818;
+	font-weight:bolder;
+}
+.nav-search-wrap{
+	float:left;
+	overflow:hidden;
+	margin-left:20px;
+	height:35px;
+	position:relative;
+}
+.nav-search-wrap label{
+	position:absolute;
+	left:5px;
+	top:0;
+	line-height:35px;
+	color:#D9D9D9;
+}
+#nav_search_item{
+	width:150px;
+	height:19px;
+	border:0;
+	margin-top:5px;
+	-moz-border-radius:3px;
+	border-radius:3px;
+	padding:2px 22px 2px 2px;
+	border:1px solid #ccc;
+}
+.y-search-btn{
+	position:absolute;
+	right:6px;
+	width:16px;
+	height:16px;
+	top:10px;
+	cursor:pointer;
+	background:url(../images/index.png) -110px -18px no-repeat;
+}
+.y-nav-click{
+	width:16px;
+	height:16px;
+	float:right;
+	background:url(../images/index.png) -110px 0 no-repeat;
+	text-indent:-9999px;
+	cursor:pointer;
+	position:relative;
+	top:10px;
+	margin-left:5px;
+}
+/*
+#myCircle{
+	width:81px;
+}
+#myCircle a{
+	float:left;
+}
+*/
+/*.y-nav-bl,.y-nav-br,.y-nav-tl,.y-nav-tr{
+	width:2px;
+	height:2px;
+	position:absolute;
+	background:url(../images/index.png) no-repeat;
+}*/

@@ -1,0 +1,56 @@
+.y-tab{
+	height:24px;
+	border-bottom:1px solid #d9d9d9;
+}
+.y-tab-left,.y-tab-right,.y-tab-flag,.y-tab li{
+	background-image:url(../images/tab.png);
+}
+.y-tab li{
+	float:left;
+	display:inline;
+	margin-left:10px;
+	height:24px;
+	position:relative;
+	background-position: 0 -24px ;
+	background-repeat:repeat-x;
+	padding:0 10px;
+	line-height:24px;
+}
+.y-tab-left,.y-tab-right{
+	width:5px;
+	height:24px;
+	display:block;
+	position:absolute;
+	overflow:hidden;
+}
+.y-tab-left{
+	top:0;
+	left:-1px;
+	background-position:0 0;
+}
+.y-tab-right{
+	top:0;
+	right:-1px;
+	background-position:-5px 0;
+}
+.y-tab li.y-tab-current{
+	background-position:0 -72px;
+	font-weight:bolder;
+	color:#111;
+}
+.y-tab-current .y-tab-left{
+	background-position:0 -48px;
+}
+.y-tab-current .y-tab-right{
+	background-position:-5px -48px;
+}
+.y-tab-current .y-tab-flag{
+	width:9px;
+	height:9px;
+	position:absolute;
+	overflow:hidden;
+	bottom:-6px;
+	left:50%;
+	margin-left:-6px;
+	background-position:0 -96px;
+}
