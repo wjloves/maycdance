@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d98f99e7-f8a3-4a6d-bb3f-3e6742431d78" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo6/partials/_layout.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo6/partials/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo6/partials/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo6/scss/style.scss" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/img/img-2-large.jpg" afterPath="$PROJECT_DIR$/demo6/img/img-2-large.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/img/img-4-large.jpg" afterPath="$PROJECT_DIR$/demo6/img/img-4-large.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo1/index.html" afterPath="$PROJECT_DIR$/demo1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo2/index.html" afterPath="$PROJECT_DIR$/demo2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo3/index.html" afterPath="$PROJECT_DIR$/demo3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo4/index.html" afterPath="$PROJECT_DIR$/demo4/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo5/index.html" afterPath="$PROJECT_DIR$/demo5/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo6/index.html" afterPath="$PROJECT_DIR$/demo6/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -75,8 +63,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="235" column="58" lean-forward="false" selection-start-line="235" selection-start-column="56" selection-end-line="235" selection-end-column="58" />
+            <state relative-caret-position="448">
+              <caret line="238" column="0" lean-forward="true" selection-start-line="238" selection-start-column="0" selection-end-line="238" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -106,10 +94,10 @@
         <option value="$PROJECT_DIR$/demo5/index.html" />
         <option value="$PROJECT_DIR$/demo6/css/style.css" />
         <option value="$PROJECT_DIR$/demo6/scss/style.scss" />
-        <option value="$PROJECT_DIR$/demo1/index.html" />
         <option value="$PROJECT_DIR$/demo6/index.html" />
         <option value="$PROJECT_DIR$/demo3/index.html" />
         <option value="$PROJECT_DIR$/demo4/index.html" />
+        <option value="$PROJECT_DIR$/demo1/index.html" />
       </list>
     </option>
   </component>
@@ -322,12 +310,12 @@
       <option name="presentableId" value="Default" />
       <updated>1490721939267</updated>
       <workItem from="1490721962371" duration="4072000" />
-      <workItem from="1490805864974" duration="4044000" />
+      <workItem from="1490805864974" duration="4119000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8116000" />
+    <option name="totallyTimeSpent" value="8191000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="731" extended-state="6" />
@@ -448,9 +436,9 @@
         <state relative-caret-position="330">
           <caret line="87" column="23" lean-forward="false" selection-start-line="85" selection-start-column="18" selection-end-line="87" selection-end-column="23" />
           <folding>
-            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#5;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -473,8 +461,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo1/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="235" column="58" lean-forward="false" selection-start-line="235" selection-start-column="56" selection-end-line="235" selection-end-column="58" />
+        <state relative-caret-position="448">
+          <caret line="238" column="0" lean-forward="true" selection-start-line="238" selection-start-column="0" selection-end-line="238" selection-end-column="0" />
           <folding />
         </state>
       </provider>
